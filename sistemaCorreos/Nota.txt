@@ -1,0 +1,4 @@
+Proyecto que consiste en el envío de e-mails y automatizart el trabajo de personal institucional.
+Presentado en la semana de la educación técnica
+
+Desarrollado por ALUMNOS DE 7MO AÑO INFORMÁTICA E.P.E.T. N5
