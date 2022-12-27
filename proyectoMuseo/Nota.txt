@@ -1,11 +1,11 @@
 Proyecto que consiste en una página web para un museo. Propuesto en las instancias institucionales
 de las Olimpíadas de la Programación 2022.
-Consta tambiés de una página de administración
+Consta también de una página de administración.
 
 
-Desarrollado por:
-Esteban
-Mateo
-Joaquin
+Desarrollado con mucho esfuerzo por:
+Siarez Esteban
+Caceres Mateo
+Centeno Joaquin
 
 :)
